@@ -1,0 +1,4 @@
+sceneSetups:
+- path: Assets/Scenes/007_skill_cd_effect.unity
+  isLoaded: 1
+  isActive: 1

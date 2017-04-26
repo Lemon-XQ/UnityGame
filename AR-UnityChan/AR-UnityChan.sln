@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR-UnityChan.CSharp", "AR-UnityChan.CSharp.csproj", "{3636CC76-7171-86E8-CDB1-0AA116424683}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AR-UnityChan.CSharp.Editor", "AR-UnityChan.CSharp.Editor.csproj", "{0E5F9139-2163-ECC3-DDF8-AC94A3E1CFCB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3636CC76-7171-86E8-CDB1-0AA116424683}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3636CC76-7171-86E8-CDB1-0AA116424683}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3636CC76-7171-86E8-CDB1-0AA116424683}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3636CC76-7171-86E8-CDB1-0AA116424683}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0E5F9139-2163-ECC3-DDF8-AC94A3E1CFCB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E5F9139-2163-ECC3-DDF8-AC94A3E1CFCB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E5F9139-2163-ECC3-DDF8-AC94A3E1CFCB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E5F9139-2163-ECC3-DDF8-AC94A3E1CFCB}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
